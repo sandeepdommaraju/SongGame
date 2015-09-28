@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SongGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Lets Start Guessing the songs!</string>
+    <string name="button_start">Start the Game Already!</string>
+    <string name="button_play">Play</string>
+    <string name="music_is_life">music is life!</string>
+
+</resources>
